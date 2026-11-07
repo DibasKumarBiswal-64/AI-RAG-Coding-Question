@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache and Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & User Documents (prevents committing your sample test files)
+document-loader/data/
+*.txt
+*.pdf
+*.docx
+
+# IDE / Editor Files
+.vscode/
+.idea/
+
+# Environment Variables / Credentials
+.env
+*.env
