@@ -5,7 +5,7 @@ from docx import Document
 
 def load_document(file_path: str) -> str:
     """
-    Load and extract text from PDF, TXT, and DOCX files.
+    Load and extract text from PDF, TXT, and DOCX files .
     """
 
     path = Path(file_path)

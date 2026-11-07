@@ -11,7 +11,7 @@ if __name__ == "__main__":
         print("\n========== EXTRACTED TEXT ==========\n")
         print(extracted_text)
 
-        print("\n========== SUMMARY ==========")
+        print("\n=========== SUMMARY ===========")
         print("Document loaded successfully!")
 
     except Exception as e:
